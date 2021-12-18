@@ -12,4 +12,4 @@ This repository contains various data visualization and/or Tableau projects that
  
  ### 1. Covid 19 Indonesia
  
- <img src="https://github.com/Leniianggraini/tableau-projects-portfolio/blob/main/Covid%2019%20Indonesia/Screenshot%20(52).png"/>
+ <img src="https://github.com/Leniianggraini/tableau-projects-portfolio/blob/main/Covid%2019%20Indonesia/Screenshot%20(54).png"/>
