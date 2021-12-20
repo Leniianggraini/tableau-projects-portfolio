@@ -17,4 +17,4 @@ This repository contains various data visualization and/or Tableau projects that
  
  ### 2. Sales Performance
  
- <img src="https://github.com/Leniianggraini/tableau-projects-portfolio/blob/main/Sales%20Performance/Screenshot%20(56).png"/>
+ <img src="https://github.com/Leniianggraini/tableau-projects-portfolio/blob/main/Sales%20Performance/Screenshot%20(58).png"/>
