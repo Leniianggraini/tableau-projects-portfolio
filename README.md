@@ -22,4 +22,4 @@ This repository contains various data visualization and/or Tableau projects that
  
   ### 2. Market Orders
  
- <img src="https://github.com/Leniianggraini/tableau-projects-portfolio/blob/main/Sales%20Performance/Screenshot%20(58).png"/>
+ <img src="https://github.com/Leniianggraini/tableau-projects-portfolio/blob/main/Market%20Orders/ss.png"/>
